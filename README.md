@@ -1,7 +1,7 @@
 # React-And-Graphsql
 React And Graphsql Example
 
-Download both client and server files
+Download both client and server files : git clone https://github.com/pravindran1984/React-And-Graphsql.git
 
 open folders in visual studio code editor
 
